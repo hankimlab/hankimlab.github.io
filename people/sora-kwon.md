@@ -1,17 +1,11 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Sora Kwon"
 ---
 
-Researcher - Physics & Astronomy
+Postdoctoral Researcher
 
-Some University - 1 Main Street, Canada
-
-Phone: (000) 000-0000
-
-Email: hello@university.edu
-
-Office: Science Building 505
+Email: skwon3@uottawa.ca
 
 ---
 
