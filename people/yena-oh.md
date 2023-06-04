@@ -2,7 +2,6 @@
 layout: page
 title: "Yena Oh"
 ---
-
 PhD Candidate
 
 Email: yoh029@uottawa.ca
