@@ -1,17 +1,11 @@
 ---
 layout: page
-title: "Lab Technician"
+title: "Yena Oh"
 ---
 
-Researcher - Physics & Astronomy
+PhD Candidate
 
-Some University - 1 Main Street, Canada
-
-Phone: (000) 000-0000
-
-Email: hello@university.edu
-
-Office: Science Building 505
+Email: yoh029@uottawa.ca
 
 ---
 
