@@ -2,7 +2,6 @@
 layout: page
 title: "Sora Kwon"
 ---
-
 Postdoctoral Researcher
 
 Email: skwon3@uottawa.ca
