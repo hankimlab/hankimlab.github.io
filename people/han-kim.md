@@ -2,7 +2,6 @@
 layout: page
 title: "Han Kim"
 ---
-
 Principal Investigator
 
 Email: hankim@uottawa.ca
