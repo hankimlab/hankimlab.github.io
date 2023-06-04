@@ -2,7 +2,6 @@
 layout: page
 title: "Termeh Aslani"
 ---
-
 MSc Candidate
 
 Email: tasla025@uottawa.ca
