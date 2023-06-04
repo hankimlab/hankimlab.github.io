@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Kyoung-Han Kim', title: 'Principal Investigator', email: 'hankim@uottawa.ca', image: 'assets/img/primary-investigator.jpg', url: 'han-kim'}
+- {name: 'Han Kim', title: 'Principal Investigator', email: 'hankim@uottawa.ca', image: 'assets/img/primary-investigator.jpg', url: 'han-kim'}
 - {name: 'Sora Kwon', title: 'Postdoctoral Researcher', email: 'skwon3@uottawa.ca', image: 'assets/img/lab-technician.jpg', url: 'sora-kwon'}
 - {name: 'Yena Oh', title: 'PhD Candidate', email: 'yoh029@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'yena-oh'}
 - {name: 'Termeh Aslani', title: 'MSc Candidate', email: 'tasla025@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'termeh-aslani'}
