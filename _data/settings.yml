@@ -30,4 +30,4 @@ social:
 # - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Kyoung-Han Kim', title: 'Associate Professor', department: 'Cellular and Molecular Medicine', institution: 'University of Ottawa Heart Institute', institution_address: '40 Ruskin St, Ottawa, ON', phone: '(613) 696-7222', email: 'hankim@uottawa.ca', office: 'H-3211', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Kyoung-Han Kim', title: 'Associate Professor', department: 'Cellular and Molecular Medicine', institution: 'University of Ottawa Heart Institute', institution_address: '40 Ruskin St, Ottawa', phone: '(613) 696-7222', email: 'hankim@uottawa.ca', office: 'H-3211', image: 'assets/img/contact.jpg'}
