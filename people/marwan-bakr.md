@@ -4,7 +4,7 @@ title: "Marwan Bakr"
 ---
 Undergraduate Student
 
-Email: mbakr070@uottawa.ca
+Email: mbakr070 at uottawa dot ca
 
 ---
 
