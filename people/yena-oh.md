@@ -4,7 +4,7 @@ title: "Yena Oh"
 ---
 PhD Candidate
 
-Email: yoh029@uottawa.ca
+Email: yoh029 at uottawa dot ca
 
 ---
 
