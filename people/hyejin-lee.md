@@ -4,7 +4,7 @@ title: "Hyejin Lee"
 ---
 Undergraduate Student
 
-Email: lee00762@algonquinlive.com
+Email: lee00762 at algonquinlive dot com
 
 ---
 
