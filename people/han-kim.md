@@ -4,7 +4,7 @@ title: "Han Kim"
 ---
 Principal Investigator
 
-Email: hankim@uottawa.ca
+Email: hankim at uottawa dot ca
 
 ---
 
