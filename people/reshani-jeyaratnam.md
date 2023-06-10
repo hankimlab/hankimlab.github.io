@@ -4,7 +4,7 @@ title: "Reshani Jeyaratnam"
 ---
 Undergraduate Student
 
-Email: rjeya020@uottawa.ca
+Email: rjeya020 at uottawa dot ca
 
 ---
 
