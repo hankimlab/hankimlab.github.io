@@ -1,33 +1,25 @@
 menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
-# - {name: 'courses', url: '/courses'}
+# - {name: 'teaching', url: '/teaching'}
 # - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Han Kim', title: 'Principal Investigator', email: 'hankim@uottawa.ca', image: 'assets/img/primary-investigator.jpg', url: 'han-kim'}
-- {name: 'Sora Kwon', title: 'Postdoctoral Researcher', email: 'skwon3@uottawa.ca', image: 'assets/img/lab-technician.jpg', url: 'sora-kwon'}
-- {name: 'Yena Oh', title: 'PhD Candidate', email: 'yoh029@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'yena-oh'}
-- {name: 'Termeh Aslani', title: 'MSc Candidate', email: 'tasla025@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'termeh-aslani'}
-- {name: 'Rimshah Abid', title: 'MSc Candidate', email: 'rabid034@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'rimshah-abid'}
-- {name: 'Julie Pan', title: 'Undergraduate Student', email: 'jpan014@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'julie-pan'}
-- {name: 'Reshani Jeyaratnam', title: 'Undergraduate Student', email: 'rjeya020@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'reshani-jeyaratnam'}
-- {name: 'Cole Stocker', title: 'Undergraduate Student', email: 'cstoc045@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'cole-stocker'}
-- {name: 'Hyejin Lee', title: 'Undergraduate Student', email: 'lee00762@algonquinlive.com', image: 'assets/img/graduate-student.jpg', url: 'hyejin-lee'}
-- {name: 'Marwan Bakr', title: 'Undergraduate Student', email: 'mbakr070@uottawa.ca', image: 'assets/img/graduate-student.jpg', url: 'marwan-bakr'}
-
-
-# courses:
-# - {name: 'Vector Calculus', url: 'vector-calculus'}
-# - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-# - {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'Han Kim', title: 'Principal Investigator', email: 'hankim at uottawa dot ca', image: 'assets/img/primary-investigator.jpg', url: 'han-kim'}
+- {name: 'Sora Kwon', title: 'Postdoctoral Researcher', email: 'skwon3 at uottawa dot ca', image: 'assets/img/lab-technician.jpg', url: 'sora-kwon'}
+- {name: 'Yena Oh', title: 'PhD Candidate', email: 'yoh029 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'yena-oh'}
+- {name: 'Termeh Aslani', title: 'MSc Candidate', email: 'tasla025 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'termeh-aslani'}
+- {name: 'Rimshah Abid', title: 'MSc Candidate', email: 'rabid034 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'rimshah-abid'}
+- {name: 'Julie Pan', title: 'Undergraduate Student', email: 'jpan014 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'julie-pan'}
+- {name: 'Reshani Jeyaratnam', title: 'Undergraduate Student', email: 'rjeya020 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'reshani-jeyaratnam'}
+- {name: 'Cole Stocker', title: 'Undergraduate Student', email: 'cstoc045 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'cole-stocker'}
+- {name: 'Hyejin Lee', title: 'Undergraduate Student', email: 'lee00762 at algonquinlive dot com', image: 'assets/img/graduate-student.jpg', url: 'hyejin-lee'}
+- {name: 'Marwan Bakr', title: 'Undergraduate Student', email: 'mbakr070 at uottawa dot ca', image: 'assets/img/graduate-student.jpg', url: 'marwan-bakr'}
 
 social:
 - {icon: 'github', link: 'https://github.com/hankimlab'}
 - {icon: 'twitter', link: 'https://twitter.com/hankimlab'}
-# - {icon: 'instagram', link: 'https://instagram.com/ha'}
-# - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
 - {name: 'Dr. Han Kim', title: 'Associate Professor', department: 'Cellular and Molecular Medicine', institution: 'University of Ottawa Heart Institute', institution_address: '40 Ruskin St, Ottawa', phone: '(613) 696-7222', email: 'hankim@uottawa.ca', office: 'H-3211', image: 'assets/img/contact.jpg'}
