@@ -4,7 +4,7 @@ title: "Rimshah Abid"
 ---
 MSc Candidate
 
-Email: rabid034@uottawa.ca
+Email: rabid034 at uottawa dot ca
 
 ---
 
