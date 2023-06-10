@@ -4,7 +4,7 @@ title: "Julie Pan"
 ---
 Undergraduate Student
 
-Email: jpan014@uottawa.ca
+Email: jpan014 at uottawa dot ca
 
 ---
 
